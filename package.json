@@ -1,0 +1,32 @@
+{
+  "name": "etdebitis",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "dependencies": {
+    "growl": "~1.7.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-bump": "~0.0.13",
+    "grunt-contrib-jshint": "~0.8.0",
+    "grunt-jasmine-node": "~0.1.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "jasmine-node": "~1.13.1",
+    "underscore": "~1.6.0"
+  },
+  "homepage": "https://github.com/ClotildeGutkowski/etdebitis.git",
+  "bugs": {
+    "url": "https://github.com/ClotildeGutkowski/etdebitis.git/issues"
+  },
+  "author": "AlexSauer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ClotildeGutkowski/etdebitis.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/AlphaHydrae/jasmine-growl-reporter/master/LICENSE.txt"
+    }
+  ]
+}
